@@ -18,9 +18,6 @@
     "watchpack": "^0.2.1",
     "webpack-core": "~0.6.0"
   },
-  "peerDependencies": {
-    "node-libs-browser": ">= 0.4.0 <=0.6.0"
-  },
   "license": "MIT",
   "devDependencies": {
     "benchmark": "^1.0.0",
